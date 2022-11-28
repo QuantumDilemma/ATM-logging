@@ -1,0 +1,18 @@
+2022-11-26 11:13:28,764 - Amount Deposited: $50.0
+2022-11-26 11:13:28,765 - Transaction Info:
+2022-11-26 11:13:28,765 - Status: Successful
+2022-11-26 11:13:28,765 - Transaction #357221
+2022-11-26 11:13:28,765 - Timestamp: 2022-11-26 11:13:28.765865
+2022-11-26 11:13:38,818 - Error! Insufficient balance to complete withdraw.
+2022-11-26 11:13:38,819 - Transaction Info:
+2022-11-26 11:13:38,819 - Status: Failed
+2022-11-26 11:13:38,819 - Transaction #705958
+2022-11-26 11:17:56,634 - Amount Deposited: $50.0
+2022-11-26 11:17:56,640 - Transaction Info:
+2022-11-26 11:17:56,640 - Status: Successful
+2022-11-26 11:17:56,641 - Transaction #266721
+2022-11-26 11:17:56,641 - Timestamp: 2022-11-26 11:17:56.641125
+2022-11-26 11:17:59,530 - You withdrew: $10.0
+2022-11-26 11:17:59,530 - Transaction Info:
+2022-11-26 11:17:59,530 - Status: Successful
+2022-11-26 11:17:59,530 - Transaction #304269
